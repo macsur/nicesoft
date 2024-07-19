@@ -14,12 +14,17 @@ Youtube播放地址：https://www.youtube.com/watch?v=BFK-49kiNRo
 3、等待上传完毕，自动转换成一串可以使用的代码。复制这串代码。返回前Code页面粘贴这段代码。
    保存更改 - 点击绿色选项【Commit changes...]
    大功告成。
+  生成的视频代码格式类似：https://github.com/user-attachments/assets/1d1c04f6-b032-452b-89f3-0c372a9c1275
+  你可以借用到你的Readme说明文档里面
 
+三、嵌入图片：使用Markown格式的图片地址即可。
 成功效果：
 ![ffa2404f7dd0dcb8c7119.png](https://pic.gitme.us.kg/file/ffa2404f7dd0dcb8c7119.png)
 ![c6f3faa30d0de0afca0af.png](https://pic.gitme.us.kg/file/c6f3faa30d0de0afca0af.png)
+===
+          Markown格式不知道是什么？呃，也就是上传图片到图床上，会把图片自动生成为Markown格式的图片地址
 
-
+===
 
 
 https://github.com/user-attachments/assets/1d1c04f6-b032-452b-89f3-0c372a9c1275
