@@ -7,9 +7,9 @@
 蓝奏云下载地址：
 https://4fb.lanzouj.com/b01kvr6bc
 网盘访问密码：q1ei
+---------------------------------完--------------------------------------
 
-
-试了一下，可以嵌入原视频
+测试一下，Githubr的嵌入视频，这里嵌入原视频和另外一个视频
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/BFK-49kiNRo/0.jpg)](https://www.youtube.com/watch?v=BFK-49kiNRo)
 
@@ -18,7 +18,7 @@ https://4fb.lanzouj.com/b01kvr6bc
 
 
 
-嵌入Youtube视频的方法：看下图即可、一看就懂了。
+嵌入Youtube视频的方法：看下图即可、一看就懂了。我也是怕忘记，才在这里做一个笔记。
 还不明白的，看另外一个文档：Readme vedio，复制代码、更换视频ID即可。比如说上面的视频嵌入的视频ID码：也就是v=BFK-49kiNRo你就更换：BFK-49kiNRo即可
 
 
