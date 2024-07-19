@@ -1,5 +1,25 @@
-#nms-web
-test vedio...
+一、视频的代码嵌入方法：
+复制代码：
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/BFK-49kiNRo/0.jpg)](https://www.youtube.com/watch?v=BFK-49kiNRo)
+
+Youtube播放地址：https://www.youtube.com/watch?v=BFK-49kiNRo
+更换v=BFK-49kiNRo里面的BFK-49kiNRo
+更换成你想嵌入的youtube视频地址的v=的后面部分即可。
+
+二、上传小于10MB视频：
+1、在Code新建一个任意名称的文件。
+2、Issues右键鼠标在新页面打开，新建：New Issue。【Issues就在Code旁边}
+  点击下面的 【Paste,drop,or click to add files】选项。点选你需要上传的小于10MB的视频文件
+
+3、等待上传完毕，自动转换成一串可以使用的代码。复制这串代码。返回前Code页面粘贴这段代码。
+   保存更改 - 点击绿色选项【Commit changes...]
+   大功告成。
+
+成功效果：
+
+
+
+
 
 https://github.com/user-attachments/assets/1d1c04f6-b032-452b-89f3-0c372a9c1275
 
