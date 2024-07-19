@@ -5,11 +5,17 @@
 原标题：【IDM6.42.15激活，修复403错误，建议更新】
 视频链接地址：https://www.youtube.com/watch?v=BFK-49kiNRo
 
-测试一下可以嵌入Youtube视频吗？
+测试了一下，可以嵌入Youtube视频的。
+
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/BFK-49kiNRo/0.jpg)](https://www.youtube.com/watch?v=BFK-49kiNRo)
 
----
+嵌入Youtube视频的方法：就是使用上面的代码，更换你要嵌入的视频ID码：也就是v=BFK-49kiNRo你就更换：BFK-49kiNRo即可
 
+---
+![e50ba961cb60c698e5eb8.png](https://pic.gitme.us.kg/file/e50ba961cb60c698e5eb8.png)
+---
+---
+https://pic.gitme.us.kg/file/e50ba961cb60c698e5eb8.png
 ===
 #test
 测试了一下，可以上传视频，小于10MB我视频
