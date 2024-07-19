@@ -8,6 +8,9 @@
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/BFK-49kiNRo/0.jpg)](https://www.youtube.com/watch?v=BFK-49kiNRo)
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ZAZ8kWu5sVw/0.jpg)](https://www.youtube.com/watch?v=ZAZ8kWu5sVw)
+
+
 
 
 嵌入Youtube视频的方法：看下图即可、一看就懂了。
