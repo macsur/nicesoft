@@ -9,16 +9,23 @@
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/BFK-49kiNRo/0.jpg)](https://www.youtube.com/watch?v=BFK-49kiNRo)
 
-嵌入Youtube视频的方法：就是使用上面的代码，更换你要嵌入的视频ID码：也就是v=BFK-49kiNRo你就更换：BFK-49kiNRo即可
 
----
+
+嵌入Youtube视频的方法：就是使用这段嵌入代码：更换你要嵌入的视频ID码：也就是v=BFK-49kiNRo你就更换：BFK-49kiNRo即可
+
+
 ![e50ba961cb60c698e5eb8.png](https://pic.gitme.us.kg/file/e50ba961cb60c698e5eb8.png)
----
----
+
+
 
 
 #test
-测试了一下，可以上传小于10MB视频
+测试了一下，可以上传小于10MB视频，上面是原youtub上的视频教程，下面一个是上传的小于10MB的视频测试
+
+
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/y08qhn8pes8/0.jpg)](https://www.youtube.com/watch?v=y08qhn8pes8)
+
 
 https://github.com/user-attachments/assets/1d1c04f6-b032-452b-89f3-0c372a9c1275
 
