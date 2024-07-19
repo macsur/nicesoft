@@ -1,16 +1,16 @@
 
-学习使用github似乎是一个非常有意思的事情，也不知道怎么做，咱就先尝试上传一个软件试试吧。
+学习使用github似乎是一个非常有意思的事情，不知道怎么做，就先尝试上传一个软件试试。
 这个文件也没有使用过，才在Yoube上看到的，还是一个夸克盘分享的下载。
 原标题：【IDM6.42.15激活，修复403错误，建议更新】
-视频链接地址：https://www.youtube.com/watch?v=BFK-49kiNRo
+原视频链接地址：https://www.youtube.com/watch?v=BFK-49kiNRo
 
-测试了一下，可以嵌入Youtube视频的。
+试了一下，可以嵌入原视频
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/BFK-49kiNRo/0.jpg)](https://www.youtube.com/watch?v=BFK-49kiNRo)
 
 
 
-嵌入Youtube视频的方法：就是使用这段嵌入代码：更换你要嵌入的视频ID码：也就是v=BFK-49kiNRo你就更换：BFK-49kiNRo即可
+嵌入Youtube视频的方法：看另外一个文档：Readme vedio，复制代码、更换视频ID即可。比如说上面的视频嵌入的视频ID码：也就是v=BFK-49kiNRo你就更换：BFK-49kiNRo即可
 
 
 ![e50ba961cb60c698e5eb8.png](https://pic.gitme.us.kg/file/e50ba961cb60c698e5eb8.png)
@@ -19,7 +19,7 @@
 
 
 #test
-测试了一下，可以上传小于10MB视频，上面是原youtub上的视频教程，下面一个是上传的小于10MB的视频测试
+测试一下，可以上传小于10MB视频，上面是原youtube上的视频教程，下面一个是上传的小于10MB的视频测试
 
 
 
