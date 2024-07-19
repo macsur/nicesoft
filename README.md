@@ -10,7 +10,8 @@
 
 
 
-嵌入Youtube视频的方法：看另外一个文档：Readme vedio，复制代码、更换视频ID即可。比如说上面的视频嵌入的视频ID码：也就是v=BFK-49kiNRo你就更换：BFK-49kiNRo即可
+嵌入Youtube视频的方法：看下图即可、一看就懂了。
+还不明白的，看另外一个文档：Readme vedio，复制代码、更换视频ID即可。比如说上面的视频嵌入的视频ID码：也就是v=BFK-49kiNRo你就更换：BFK-49kiNRo即可
 
 
 ![e50ba961cb60c698e5eb8.png](https://pic.gitme.us.kg/file/e50ba961cb60c698e5eb8.png)
