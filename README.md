@@ -3,6 +3,11 @@
 这个文件也没有使用过，才在Yoube上看到的，还是一个夸克盘分享的下载。
 原标题：【IDM6.42.15激活，修复403错误，建议更新】
 原视频链接地址：https://www.youtube.com/watch?v=BFK-49kiNRo
+另绿色版：https://www.4fb.cn/soft/pc/169.html
+蓝奏云下载地址：
+https://4fb.lanzouj.com/b01kvr6bc
+网盘访问密码：q1ei
+
 
 试了一下，可以嵌入原视频
 
