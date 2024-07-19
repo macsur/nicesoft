@@ -18,7 +18,7 @@
 
 
 #test
-测试了一下，可以上传视频，小于10MB我视频
+测试了一下，可以上传小于10MB视频
 
 https://github.com/user-attachments/assets/1d1c04f6-b032-452b-89f3-0c372a9c1275
 
