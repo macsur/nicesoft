@@ -13,7 +13,7 @@ https://4fb.lanzouj.com/b01kvr6bc
 
 测试一下，Githubr的嵌入视频，这里嵌入原视频和另外一个视频
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/BFK-49kiNRo/0.jpg)](https://www.youtube.com/watch?v=BFK-49kiNRo)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YVj3JKMH9p8/0.jpg)](https://www.youtube.com/watch?v=YVj3JKMH9p8)
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ZAZ8kWu5sVw/0.jpg)](https://www.youtube.com/watch?v=ZAZ8kWu5sVw)
 
