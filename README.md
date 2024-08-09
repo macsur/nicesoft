@@ -43,5 +43,7 @@ https://github.com/user-attachments/assets/1d1c04f6-b032-452b-89f3-0c372a9c1275
 ![ffa2404f7dd0dcb8c7119.png](https://pic.gitme.us.kg/file/ffa2404f7dd0dcb8c7119.png)
 ![c6f3faa30d0de0afca0af.png](https://pic.gitme.us.kg/file/c6f3faa30d0de0afca0af.png)
 
+提醒：直接嵌入的分享代码并不人显示，如下就是没有视频，只有代码：
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nfWlot6h_JM?si=R1NzvjRtLCMSb5zg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
