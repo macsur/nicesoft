@@ -13,9 +13,9 @@ https://4fb.lanzouj.com/b01kvr6bc
 
 测试一下，Githubr的嵌入视频，这里嵌入原视频和另外一个视频
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YVj3JKMH9p8/0.jpg)](https://www.youtube.com/watch?v=YVj3JKMH9p8)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/b7QlX3yR2xs/0.jpg)](https://www.youtube.com/watch?v=b7QlX3yR2xs)
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ZAZ8kWu5sVw/0.jpg)](https://www.youtube.com/watch?v=ZAZ8kWu5sVw)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/h8DLofLM7No/0.jpg)](https://www.youtube.com/watch?v=h8DLofLM7No)
 
 
 
