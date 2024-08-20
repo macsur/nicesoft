@@ -27,7 +27,9 @@ https://www.youtube.com/watch?v=rYEDA3JcQqw
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/h8DLofLM7No/0.jpg)](https://www.youtube.com/watch?v=h8DLofLM7No)
 
 
+示例三、https://www.youtube.com/watch?v=SwUMZ7pBdPE&t=309s
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/SwUMZ7pBdPE/0.jpg)](https://www.youtube.com/watch?v=SwUMZ7pBdPE)
 
 嵌入Youtube视频的方法：看下图即可、一看就懂了。我也是怕忘记，才在这里做一个笔记。
 还不明白的，看另外一个文档：Readme vedio，复制代码、更换视频ID即可。比如说上面的视频嵌入的视频ID码：也就是v=BFK-49kiNRo你就更换：BFK-49kiNRo即可
