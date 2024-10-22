@@ -1,15 +1,17 @@
-
+---
 学习使用github似乎是一个非常有意思的事情，不知道怎么做，就先尝试上传一个软件试试。
 这个文件也没有使用过，才在Yoube上看到的，还是一个夸克盘分享的下载。
 原标题：【IDM6.42.15激活，修复403错误，建议更新】
 原视频链接地址：https://www.youtube.com/watch?v=BFK-49kiNRo
+---
 另绿色版：https://www.4fb.cn/soft/pc/169.html
-蓝奏云下载地址：
+---
+蓝奏云下载地址（些下载会有更新版本提供下载，升级前请完全卸载后安装）：
 https://4fb.lanzouj.com/b01kvr6bc
 网盘访问密码：q1ei
 
 全文结束 - 完
-
+---
 
 测试一下，Githubr的嵌入视频，这里嵌入原视频和另外一个视频
 https://www.youtube.com/watch?v=rYEDA3JcQqw
