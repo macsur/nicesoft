@@ -1,0 +1,3 @@
+https://memos.zttz.eu.org
+
+/home/milk/.npm-global/bin/pm2 resurrect >/dev/null 2>&1 && /home/milk/.npm-global/bin/pm2 restart all >/dev/null 2>&1
